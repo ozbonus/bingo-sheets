@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="840" height="1188" viewBox="-105.0 -148.5 210 297">
+<defs>
+<g id="d0">
+<rect x="0" y="0" width="88" height="132" stroke-width="1" stroke="black" fill="#eeeeee" />
+<text x="44.0" y="30.0" font-size="24" font-family="Arial Rounded MT Bold" fill="#000000" text-anchor="middle" dominant-baseline="central">Bingo!</text>
+<rect x="4" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">41</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">39</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">21</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">16</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">33</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">24</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">14</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">40</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">44</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">35</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">45</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">43</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">17</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">34</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">29</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">31</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">30</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">23</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">15</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">27</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+</g>
+<g id="d1">
+<rect x="0" y="0" width="88" height="132" stroke-width="1" stroke="black" fill="#eeeeee" />
+<text x="44.0" y="30.0" font-size="24" font-family="Arial Rounded MT Bold" fill="#000000" text-anchor="middle" dominant-baseline="central">Bingo!</text>
+<rect x="4" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">34</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">33</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">30</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">14</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">11</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">36</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">16</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">37</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">32</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">19</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">22</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">17</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">31</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">29</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">27</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">28</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">13</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">42</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">21</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">40</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+</g>
+<g id="d2">
+<rect x="0" y="0" width="88" height="132" stroke-width="1" stroke="black" fill="#eeeeee" />
+<text x="44.0" y="30.0" font-size="24" font-family="Arial Rounded MT Bold" fill="#000000" text-anchor="middle" dominant-baseline="central">Bingo!</text>
+<rect x="4" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">33</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">43</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">20</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">29</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">36</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">14</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">11</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">21</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">19</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">35</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">27</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">34</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">13</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">28</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">41</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">15</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">17</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">18</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">16</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">31</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+</g>
+<g id="d3">
+<rect x="0" y="0" width="88" height="132" stroke-width="1" stroke="black" fill="#eeeeee" />
+<text x="44.0" y="30.0" font-size="24" font-family="Arial Rounded MT Bold" fill="#000000" text-anchor="middle" dominant-baseline="central">Bingo!</text>
+<rect x="4" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">27</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">31</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">23</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">34</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="4" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="12" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">13</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">32</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">28</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="20" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="28" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">19</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">21</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">44</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="36" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="44" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">10</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">17</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">9</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">30</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="52" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="60" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">39</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="60" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">37</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="76" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">41</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="80" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="92" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">42</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="108" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">15</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+<rect x="68" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
+<text x="76" y="124" font-size="10" font-family="Arial Rounded MT Bold" fill="#555555" text-anchor="middle" dominant-baseline="central">20</text>
+<text x="4" y="44" font-size="4" font-family="Arial Rounded MT Bold" word-spacing="8" letter-spacing="10" fill="#aaaaaa">For the numbers 1 to 45.</text>
+</g>
+</defs>
+<rect x="-105.0" y="-148.5" width="210" height="297" fill="#ffffff" />
+<use xlink:href="#d0" x="-193.0" y="-280.5" />
+<use xlink:href="#d1" x="-105.0" y="-280.5" />
+<use xlink:href="#d2" x="-193.0" y="-148.5" />
+<use xlink:href="#d3" x="-105.0" y="-148.5" />
+</svg>
