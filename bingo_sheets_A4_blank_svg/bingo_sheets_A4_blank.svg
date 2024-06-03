@@ -3,7 +3,7 @@
      width="840" height="1188" viewBox="-105.0 -148.5 210 297">
 <defs>
 <g id="d0">
-<rect x="0" y="0" width="88" height="132" stroke-width="1" stroke="black" fill="#eeeeee" />
+<rect x="0" y="0" width="88" height="132" fill="#eeeeee" />
 <text x="44.0" y="30.0" font-size="24" font-family="Arial Rounded MT Bold" fill="#000000" text-anchor="middle" dominant-baseline="central">Bingo!</text>
 <rect x="4" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 <rect x="4" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
@@ -32,7 +32,7 @@
 <rect x="68" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 </g>
 <g id="d1">
-<rect x="0" y="0" width="88" height="132" stroke-width="1" stroke="black" fill="#eeeeee" />
+<rect x="0" y="0" width="88" height="132" fill="#eeeeee" />
 <text x="44.0" y="30.0" font-size="24" font-family="Arial Rounded MT Bold" fill="#000000" text-anchor="middle" dominant-baseline="central">Bingo!</text>
 <rect x="4" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 <rect x="4" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
@@ -61,7 +61,7 @@
 <rect x="68" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 </g>
 <g id="d2">
-<rect x="0" y="0" width="88" height="132" stroke-width="1" stroke="black" fill="#eeeeee" />
+<rect x="0" y="0" width="88" height="132" fill="#eeeeee" />
 <text x="44.0" y="30.0" font-size="24" font-family="Arial Rounded MT Bold" fill="#000000" text-anchor="middle" dominant-baseline="central">Bingo!</text>
 <rect x="4" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 <rect x="4" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
@@ -90,7 +90,7 @@
 <rect x="68" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 </g>
 <g id="d3">
-<rect x="0" y="0" width="88" height="132" stroke-width="1" stroke="black" fill="#eeeeee" />
+<rect x="0" y="0" width="88" height="132" fill="#eeeeee" />
 <text x="44.0" y="30.0" font-size="24" font-family="Arial Rounded MT Bold" fill="#000000" text-anchor="middle" dominant-baseline="central">Bingo!</text>
 <rect x="4" y="48" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 <rect x="4" y="64" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
@@ -118,10 +118,28 @@
 <rect x="68" y="96" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 <rect x="68" y="112" width="16" height="16" stroke-width="1" stroke="black" fill="white" />
 </g>
+<g id="d4">
+<path d="M0,0 L0,2" stroke="#000000" stroke-width="0.25" />
+</g>
+<g id="d5">
+<path d="M0,0 L2,0" stroke="#000000" stroke-width="0.25" />
+</g>
 </defs>
 <rect x="-105.0" y="-148.5" width="210" height="297" fill="#ffffff" />
 <use xlink:href="#d0" x="-193.0" y="-280.5" />
 <use xlink:href="#d1" x="-105.0" y="-280.5" />
 <use xlink:href="#d2" x="-193.0" y="-148.5" />
 <use xlink:href="#d3" x="-105.0" y="-148.5" />
+<use xlink:href="#d4" x="-192.0" y="-281.5" />
+<use xlink:href="#d4" x="-105.0" y="-281.5" />
+<use xlink:href="#d4" x="-18.0" y="-281.5" />
+<use xlink:href="#d4" x="-192.0" y="-17.5" />
+<use xlink:href="#d4" x="-105.0" y="-17.5" />
+<use xlink:href="#d4" x="-18.0" y="-17.5" />
+<use xlink:href="#d5" x="-194.0" y="-279.5" />
+<use xlink:href="#d5" x="-18.0" y="-279.5" />
+<use xlink:href="#d5" x="-194.0" y="-148.5" />
+<use xlink:href="#d5" x="-18.0" y="-148.5" />
+<use xlink:href="#d5" x="-194.0" y="-17.5" />
+<use xlink:href="#d5" x="-18.0" y="-17.5" />
 </svg>
