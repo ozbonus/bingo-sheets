@@ -48,8 +48,6 @@ def make_bingo_sheet(low_high: Tuple[int, int] = None) -> d.Group:
         y=0,
         width=SHEET_W,
         height=SHEET_H,
-        stroke_width=1,
-        stroke="black",
         fill="#eeeeee",
     )
     sheet.append(outer_border)
@@ -115,6 +113,37 @@ def put_sheets_on_paper(low_high: Tuple[int, int] = None) -> d.Drawing:
     paper.append(d.Use(sheet_3, -(PAPER_W / 2 + SHEET_W), -(PAPER_H / 2)))
     paper.append(d.Use(sheet_4, -(PAPER_W / 2), -(PAPER_H / 2)))
 
+    # Cut marks.
+    vertical_cut_mark = d.Group()
+    vertical_cut_mark.append(d.Line(0, 0, 0, 2, stroke="#000000", stroke_width=0.25))
+
+    vertical_cut_mark_positions = [
+        (-(PAPER_W / 2 + SHEET_W) + 1, -(PAPER_H / 2 + SHEET_H) - 1),  # top left
+        (-(PAPER_W / 2), -(PAPER_H / 2 + SHEET_H) - 1),  # top middle
+        (-(PAPER_W / 2) + SHEET_W - 1, -(PAPER_H / 2 + SHEET_H) - 1),  # top right
+        (-(PAPER_W / 2 + SHEET_W) + 1, -(PAPER_H / 2) + SHEET_H - 1),  # bottom left
+        (-(PAPER_W / 2), -(PAPER_H / 2) + SHEET_H - 1),  # bottom middle
+        (-(PAPER_W / 2) + SHEET_W - 1, -(PAPER_H / 2) + SHEET_H - 1),  # bottom right
+    ]
+
+    for x, y in vertical_cut_mark_positions:
+        paper.append(d.Use(vertical_cut_mark, x, y))
+
+    horizontal_cut_mark = d.Group()
+    horizontal_cut_mark.append(d.Line(0, 0, 2, 0, stroke="#000000", stroke_width=0.25))
+
+    horizontal_cut_mark_positions = [
+        (-(PAPER_W / 2 + SHEET_W) - 1, -(PAPER_H / 2 + SHEET_H) + 1),  # top left
+        (-(PAPER_W / 2) + SHEET_W - 1, -(PAPER_H / 2 + SHEET_H) + 1),  # top right
+        (-(PAPER_W / 2 + SHEET_W) - 1, -(PAPER_H / 2)),  # middle left
+        (-(PAPER_W / 2) + SHEET_W - 1, -(PAPER_H / 2)),  # middle right
+        (-(PAPER_W / 2 + SHEET_W) - 1, -(PAPER_H / 2) + SHEET_H - 1),  # bottom left
+        (-(PAPER_W / 2) + SHEET_W - 1, -(PAPER_H / 2) + SHEET_H - 1),  # bottom right
+    ]
+
+    for x, y in horizontal_cut_mark_positions:
+        paper.append(d.Use(horizontal_cut_mark, x, y))
+
     return paper
 
 
@@ -156,5 +185,5 @@ def output_papers(count: int = 1, low_high: Tuple[int, int] = None):
 if __name__ == "__main__":
     output_papers()
 
-    for n in [25, 28, 32, 36, 40, 42, 45, 48, 50]:
-        output_papers(count=25, low_high=(1, n))
+    # for n in [25, 28, 32, 36, 40, 42, 45, 48, 50]:
+    #     output_papers(count=25, low_high=(1, n))
