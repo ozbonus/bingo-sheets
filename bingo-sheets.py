@@ -185,5 +185,5 @@ def output_papers(count: int = 1, low_high: Tuple[int, int] = None):
 if __name__ == "__main__":
     output_papers()
 
-    # for n in [25, 28, 32, 36, 40, 42, 45, 48, 50]:
-    #     output_papers(count=25, low_high=(1, n))
+    for n in [25, 28, 32, 36, 40, 42]:
+        output_papers(count=25, low_high=(1, n))
